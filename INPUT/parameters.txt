@@ -1,0 +1,15 @@
+#- vp [m/s], vs [m/s], rho [gm/m**3] ---------------------------------------------------------
+8000.0 5000.0 3000.0
+#- srcx, srcy, srcz [m] (prior means, next line: prior standard deviation) -------------------
+10000.0 20000.0 30000.0
+10000.0 10000.0 10000.0
+#- moment tensor, m1, m2, m3, m4, m5, m6 (prior means, next line: prior standard deviations) -
+1.0 2.0 3.0 4.0 5.0 6.0
+2.0 2.0 2.0 2.0 2.0 2.0
+#- origin time (prior mean, next line: prior standard deviation [s]) -------------------------
+3.0
+0.3
+#- source-time function coefficients (prior means, next line: prior standard deviations) -----
+0.0 1.0 2.0 3.0 4.0 3.0 2.0 1.0 0.0 0.0
+0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5
+
